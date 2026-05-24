@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "473101509261",
+    "project_id": "gen-lang-client-0240001721",
+    "storage_bucket": "gen-lang-client-0240001721.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473101509261:android:2ad8b5703eea190520f8c4",
+        "android_client_info": {
+          "package_name": "com.stremini.workspace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473101509261-7sj8mijv3ribg3j3ohrr2afmc1jmtcdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIHYAQGd-vziLH9XxHS2jU3ky3Eoq__Ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473101509261-7sj8mijv3ribg3j3ohrr2afmc1jmtcdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
